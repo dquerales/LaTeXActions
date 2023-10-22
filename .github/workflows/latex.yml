@@ -13,8 +13,8 @@ jobs:
         uses: xu-cheng/latex-action@v2
         with:
           root_file: |
-             document1/main.tex
-             document2/main.tex
+             document1/main1.tex
+             document2/main2.tex
 
       - name: Commit changes
         uses: EndBug/add-and-commit@v9
