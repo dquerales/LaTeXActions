@@ -9,11 +9,12 @@
 ```
 git clone url
 ```
+2. Set up github actions workflow
 
 ## Usage
 
 1. Make changes
-2. Let github actions release th pdf
+2. Let github actions release add pdf
 
 
 # Contact
